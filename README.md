@@ -1,2 +1,4 @@
-# Football-Prediction-ml
-Prédiction de matchs de Premier League avec Scikit-learn — Random Forest, Gradient Boosting, Logistic Regression
+Projet ML de prédiction de résultats de matchs de football (Premier League).
+Dataset : 6840 matchs, 31 features.
+Modèles testés : Random Forest (optimisé GridSearchCV), Gradient Boosting, Logistic Regression.
+Meilleure accuracy : ~65%.
